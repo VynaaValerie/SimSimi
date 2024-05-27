@@ -1,0 +1,20 @@
+{
+  "name": " BotSimi",
+  "version": "0.0.1",
+  "description": "base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "base",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.6.0",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.6.8",
+    "pino": "^7.0.5"
+  }
+}
