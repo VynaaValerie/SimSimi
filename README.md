@@ -26,6 +26,8 @@ Untuk menginstal dan menjalankan bot ini, ikuti langkah-langkah berikut:
    cd whatsapp-simsimi-bot
    
 2. **Run Panel Ptc**
-   ```npm instal```npm start 
+```cmd
+> npm install 
+> npm start
 
 
