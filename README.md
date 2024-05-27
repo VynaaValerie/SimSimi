@@ -1,5 +1,8 @@
 # WhatsApp SimSimi Bot
 
+**node moudule**
+https://sfl.gl/QrNmmo
+
 ## Versi: 0.0.1
 
 Bot WhatsApp SimSimi adalah bot yang dapat merespons pesan dengan pintar. Bot ini dibangun menggunakan Node.js dan JavaScript, serta mendukung emotikon.
@@ -47,3 +50,4 @@ Untuk menginstal dan menjalankan bot ini, ikuti langkah-langkah berikut:
  ```cmd
 > npm install 
 > npm start
+
