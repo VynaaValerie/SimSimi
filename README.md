@@ -26,7 +26,6 @@ Bot WhatsApp SimSimi adalah bot yang dapat merespons pesan dengan pintar. Bot in
 
 ## Thanks To
 𝐀𝐮𝐭𝐡𝐨𝐫 : Vynaa Valerie
-Whatsapp : 6282389924037
 Thanks To : 
 • Allah SWT
 • VynaaChan
