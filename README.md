@@ -1,4 +1,7 @@
 # WhatsApp SimSimi Bot
+(https://telegra.ph/file/fb4b79287b01082069ec0.jpg)
+# YOUTUBE
+https://youtu.be/RnqpDy8ls7E?si=7ooFjr80Ug5ZzG07
 
 **node moudule**
 https://sfl.gl/QrNmmo
