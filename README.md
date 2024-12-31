@@ -46,7 +46,7 @@ Untuk menginstal dan menjalankan bot ini, ikuti langkah-langkah berikut:
 1. **Clone repositori ini**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VynaaValerie/SimSimi.git
    cd whatsapp-simsimi-bot
    
 2. **Run Panel Ptc**
