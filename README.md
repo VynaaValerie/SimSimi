@@ -1,5 +1,6 @@
 # WhatsApp SimSimi Bot
-(https://telegra.ph/file/fb4b79287b01082069ec0.jpg)
+# Version 0.0.2
+![Pratinjau 1](https://api.tioo.eu.org/file/hvnqu1S8CjeQ.jpeg)
 # YOUTUBE
 https://youtu.be/RnqpDy8ls7E?si=7ooFjr80Ug5ZzG07
 
